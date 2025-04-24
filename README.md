@@ -12,6 +12,6 @@ Phiên bản Windows biên dịch sẵn: **`SearchApp.exe`**.
 ## Cài đặt & chạy nhanh
 
 ```bash
-git clone https://ignatn7082/CT208_B2113319_LeNgocTan.git
-cd <CT208_B2113319_LeNgocTan>
-# hoặc tải ZIP rồi giải nén
+1. Download dự án 
+2. Giải nén
+3. chạy file .exe

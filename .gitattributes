@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+clip_model/ViT-B-32.pt filter=lfs diff=lfs merge=lfs -text
